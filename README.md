@@ -1,4 +1,4 @@
-# 🏗️ Concrete Compressive Strength Predictor & Linear Systems Solver
+#  Concrete Compressive Strength Predictor & Linear Systems Solver
 ### *Supervised Machine Learning via Custom Gauss-Jordan Elimination*
 
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -17,7 +17,7 @@ This application demonstrates how **Machine Learning** can predict compressive s
 
 ---
 
-## 👥 Proponents & Contributors
+##  Proponents & Contributors
 
 * **John Joshua D. Ilisan**
 * **Darius Lape**
@@ -25,7 +25,7 @@ This application demonstrates how **Machine Learning** can predict compressive s
 
 ---
 
-## 📐 Mathematical Formulation
+##  Mathematical Formulation
 
 ### 1. The Normal Equations Bridge
 In concrete mix evaluation, the number of experimental cylinder batches ($N$) far exceeds the number of unknown weights ($k$). This yields an **overdetermined rectangular system** ($X\beta \approx y$) with no direct matrix inverse.
