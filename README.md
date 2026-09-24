@@ -53,7 +53,7 @@ $$\text{Strength (MPa)} = \beta_0 + \beta_1(\text{Cement}) + \beta_2(w/c) + \bet
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Custom Gauss-Jordan Engine (`gauss_jordan.py`):**
   - Implements **Partial Pivoting** (row swapping to select the maximum absolute pivot entry) to eliminate division-by-zero risks and minimize floating-point roundoff drift.
